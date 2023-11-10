@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 270px></picture>
 <br>
 
-- 🔭 I’m currently working**as a University Student**
+- 🔭 I’m currently working **as a University Student**
 
 - 🌱 I’m currently learning **Node.js**
 
