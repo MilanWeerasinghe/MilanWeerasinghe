@@ -23,6 +23,15 @@
 ---
 
 <img align="right" alt="side_sticker" src="https://i.gifer.com/9viJ.gif"/>
+
+
+
+ ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=MilanWeerasinghe&show_icons=true&theme=ambient_gradient)  ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=ambient_gradient) 
+
+![Github Stars](https://github-readme-stats.vercel.app/api?username=MilanWeerasinghe&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=ambient_gradient) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanWeerasinghe&theme=ambient_gradient) 
+
 <h4 align="left">Programming Languages:</h4>
 <p align="left">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -53,6 +62,6 @@
 <p align="left">   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   </p>
