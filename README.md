@@ -8,9 +8,9 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 270px></picture>
 <br>
 
-- 🔭 I’m currently working **as a University Student**
+- 🔭 I’m currently reading a degree from **University of Sri Jayewardanepura**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **milanmmw123@gmail.com**
 
-- ⚡ Fun fact **Enjoy Music...**
+- ⚡ Fun fact **Play Music...**
   <p> <br></p>
 ---
 
