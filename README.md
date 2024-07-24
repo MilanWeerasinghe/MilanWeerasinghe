@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 270px></picture>
 <br>
 
-- 🔭 I’m currently reading a degree(BSc(Hons) in Computer Science) from **University of Sri Jayewardanepura**
+- 🔭 I’m currently reading a degree( BSc(Hons) in Computer Science ) from **University of Sri Jayewardanepura**
 
 - 🌱 I’m currently learning **React.js**
 
