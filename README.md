@@ -26,11 +26,10 @@
 
 
 
- ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=MilanWeerasinghe&show_icons=true&theme=ambient_gradient)  ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=ambient_gradient) 
+![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milanweerasinghe&theme=dark) 
 
-![Github Stars](https://github-readme-stats.vercel.app/api?username=MilanWeerasinghe&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=ambient_gradient) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanWeerasinghe&theme=ambient_gradient) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanWeerasinghe&theme=dark) 
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">  
