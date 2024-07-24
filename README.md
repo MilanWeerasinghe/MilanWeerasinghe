@@ -2,13 +2,13 @@
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
 </div>
 <h1 align="center">Hi👋<br> I'm Milan Weerasinghe</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate developer and ML enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milanweerasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="milanweerasinghe" /> </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 270px></picture>
 <br>
 
-- 🔭 I’m currently reading a degree from **University of Sri Jayewardanepura**
+- 🔭 I’m currently reading a degree(BSc(Hons) in Computer Science) from **University of Sri Jayewardanepura**
 
 - 🌱 I’m currently learning **React.js**
 
