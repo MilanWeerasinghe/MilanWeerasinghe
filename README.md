@@ -4,7 +4,7 @@
 <h1 align="center">Hi👋<br> I'm Milan Weerasinghe</h1>
 <h3 align="center">A passionate developer and ML enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=milanweerasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="milanweerasinghe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MilanWeerasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="milanweerasinghe" /> </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 270px></picture>
 <br>
 
