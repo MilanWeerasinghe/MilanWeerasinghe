@@ -20,11 +20,10 @@
   <p> <br></p>
 ---
 
-<img align="right" alt="side_sticker" src="https://i.gifer.com/9viJ.gif"/>
 
 
 
-![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milanweerasinghe&theme=dark) 
+![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MilanWeerasinghe&theme=dark) 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanWeerasinghe&theme=dark) 
